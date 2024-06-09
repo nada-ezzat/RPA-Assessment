@@ -1,0 +1,8 @@
+Key,Value,Note
+emailName,nada.ezzat412000@gmail.com,email name that the robot will use
+emailPassword,********,email password
+hidemeUsername,rpaTest253272NadaEzzat,username of hide.me account to signup or login
+hidemePassword,"""NadaMaidsAssessment""",password of hide.me account
+outputFolder,D:\Nada\Maids Assessment\Maids Assessment\Output,the output folder thatt contains the process result files
+screenshotsFolder,C:\Users\abdul\Downloads\output\screenshots,this folder contains the error screenshots
+receiverEmails,nada.ezzat412000@gmail.com,receiver's emails that you should send the output files to them
